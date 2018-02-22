@@ -1,0 +1,13 @@
+FAIL
+********************************************************
+*ProgramName: GPIOSkylake.exe                        
+*ProgramVersion: Ver:1.0.0.1                   
+*CreateDate: 2015-8-12                         
+*Author: STE-SW Copyright (C) by xiangxiang    
+*MoreInfo: Developed By STE                    
+********************************************************
+Release Notes:  
+  1.Ver1.0.0.0 build 2015/8/10  support skylake platfrom(PCH-LP).
+  2.Ver1.0.0.1 build 2015/8/12  support skylake platfrom(PCH-LP/PCH-H).
+  2.Ver1.0.0.2 build 2016/12/14 add return code. if pass,return 0,otherwise,return non-zero.
+--------------------------------------------------------

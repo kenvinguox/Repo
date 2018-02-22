@@ -1,0 +1,23 @@
+PASS
+********************************************************
+*ProgramName: GPIOSkylake.exe                        
+*ProgramVersion: Ver:1.0.0.1                   
+*CreateDate: 2015-8-12                         
+*Author: STE-SW Copyright (C) by xiangxiang    
+*MoreInfo: Developed By STE                    
+********************************************************
+Release Notes:  
+  1.Ver1.0.0.0 build 2015/8/10  support skylake platfrom(PCH-LP).
+  2.Ver1.0.0.1 build 2015/8/12  support skylake platfrom(PCH-LP/PCH-H).
+--------------------------------------------------------
+*************GPIO TOOL**************
+GPIO Read:
+[GPP_F_22]
+Mem_address: 0xFDAC04B0
+GPIO_val   : 0x04000100
+bit 1      : 0
+------------------------------
+out put    : 0000
+
+StartTime: 10:38:00 2016-11-29
+EndTime  : 10:38:00 2016-11-29
